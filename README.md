@@ -20,4 +20,4 @@ I have built a few simple projects with Ai but this was perhaps the smoothest on
 
 These first two prompts will get you started, I will show other prompts/fixes used to create and update the project later...  
 
-For example images see: [Here] [https://github.com/phpbbireland/AiGF/tree/main/images]
+For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
