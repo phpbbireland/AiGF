@@ -2,7 +2,7 @@
 
 I built a forum using Claude and the prompts below.  
 Out of the box it worked (required one minor non-critical fix).  
-I have built a few simple projects with Ai but this was perhaps the smoothest one yet.  
+I have built a few simple projects with Ai but this was perhaps the smoothest one yet, requiring no input from me.  
 
 ![Example Image](https://github.com/phpbbireland/AiGF/blob/main/images/forumbyClaude1.jpg)
 
