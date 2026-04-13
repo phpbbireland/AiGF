@@ -1,6 +1,8 @@
 # AiGen4M (Ai Generated Full Stack Fourm)
 
-I will show all prompts used to create and update the project...  
+I built a forum using Claude and the prompts below.  
+Out of the box it worked (required one minor non-critical fix).  
+I have built a few simple projects with Ai but this was perhaps the smoothest one yet.  
 
 ![Example Image](https://github.com/phpbbireland/AiGF/blob/main/images/forumbyClaude1.jpg)
 
@@ -18,5 +20,7 @@ I will show all prompts used to create and update the project...
 
 **Prompt 3:**  
 TBA
+
+I will show all prompts used to create and update the project...  
 
 For example images see: [Here] [https://github.com/phpbbireland/AiGF/tree/main/images]
