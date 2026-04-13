@@ -19,4 +19,4 @@ I will show all prompts used to create and update the project...
 **Prompt 3:**  
 TBA
 
-For example images see: 
+For example images see: [Here] [https://github.com/phpbbireland/AiGF/tree/main/images]
