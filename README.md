@@ -21,4 +21,9 @@ I have built a few simple projects with Ai but this was perhaps the smoothest on
 
 These first two prompts will get you started, I will show other prompts/fixes used to create and update the project later...  
 
+**Other steps**
++ Added smilies to posts... first attempt was not so good but after the fix it looks pretty good...
++ Corrected post contents, lines being stripped of CR's...
+
+
 For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
