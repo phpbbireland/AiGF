@@ -1,4 +1,5 @@
 # AiGen4M (Ai Generated Full Stack Forum)
+**Current Version** 53 (0.5.3)  
 
 I built a forum using Claude and the prompts below.  
 After initial prompt, it worked out of the box but required one minor non-critical fix.  
