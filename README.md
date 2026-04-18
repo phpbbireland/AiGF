@@ -55,6 +55,6 @@ I have built a few simple projects with Ai but this was perhaps the smoothest on
   
 For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
 
-Example Post ![Example Post](https://github.com/phpbbireland/AiGF/blob/main/images/post3.jpg)
-Admin Dashboard ![Admin Daskboard (ACP)](https://github.com/phpbbireland/AiGF/blob/main/images/admin1a.jpg)
+Example Post V0.5.0 ![Example Post](https://github.com/phpbbireland/AiGF/blob/main/images/post3.jpg)
+Admin Dashboard V0.5.3 ![Admin Daskboard (ACP)](https://github.com/phpbbireland/AiGF/blob/main/images/admin1a.jpg)
 
