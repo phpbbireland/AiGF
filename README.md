@@ -1,4 +1,4 @@
-# AiGen4M (Ai Generated Full Stack Forum)
+# Ai Generated Full Stack Forum
 **Current Version** 53 (0.5.3)  
 
 Full stack Forum built using Claude (Sonnet 4.6)  
