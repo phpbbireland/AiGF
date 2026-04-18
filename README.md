@@ -27,6 +27,7 @@ These first two prompts will get you started, I will show other prompts/fixes us
 + Email Settings
 + File upload & Settings
 + PM/DM
++ Upload Styles
 
 **To Do (UCP)**
 + Add more user Options (UCP)
@@ -34,6 +35,7 @@ These first two prompts will get you started, I will show other prompts/fixes us
 + DOB settings
 + Timezone
 + Send/Receive PM/DM
++ Style Select
 
 
 For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
