@@ -43,6 +43,7 @@ I have built a few simple projects with Ai but this was perhaps the smoothest on
 + Timezone
 + Send/Receive PM/DM
 + Style Select
++ Poll Creation 
 
 
 For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
