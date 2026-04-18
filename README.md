@@ -1,4 +1,4 @@
-# AiGen4M (Ai Generated Full Stack Fourm)
+# AiGen4M (Ai Generated Full Stack Forum)
 
 I built a forum using Claude and the prompts below.  
 After initial prompt, it worked out of the box but required one minor non-critical fix.  
@@ -26,11 +26,14 @@ These first two prompts will get you started, I will show other prompts/fixes us
 + Add more Admin Options
 + Email Settings
 + File upload & Settings
++ PM/DM
 
 **To Do (UCP)**
 + Add more user Options (UCP)
 + Email Settings
-+ various...
++ DOB settings
++ Timezone
++ Send/Receive PM/DM
 
 
 For example images see: [https://github.com/phpbbireland/AiGF/tree/main/images]
