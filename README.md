@@ -1,8 +1,7 @@
 # AiGen4M (Ai Generated Full Stack Forum)
 **Current Version** 53 (0.5.3)  
 
-I built a forum using Claude and the prompts below.  
-After initial prompt, it worked out of the box but required one minor non-critical fix.  
+Full stack Forum built using Claude (Sonnet 4.6)  
 
 I have built a few simple projects with Ai but this was perhaps the smoothest one yet, requiring no input from me to get a working example forum.  
 
