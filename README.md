@@ -3,7 +3,9 @@
 
 Full stack Forum built using Claude (Sonnet 4.6)  
 
-I have built a few simple projects with Ai but this was perhaps the smoothest one yet, requiring no input from me to get a working example forum. My method was simple, build initial working example and then add more functionality in stages testing before continuing. Test and verify code is working without errors before adding next steps...  
+I have built a few simple projects with Ai but this was perhaps the smoothest one yet, requiring no input from me to get a working example forum.  
+
+My method was simple, build initial working example and then add more functionality in stages testing before continuing. Test and verify code is working without errors before adding next steps...  
 
 ![Example Image](https://github.com/phpbbireland/AiGF/blob/main/images/forumbyClaude1.jpg)
 
