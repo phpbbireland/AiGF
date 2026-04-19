@@ -60,5 +60,5 @@ Admin Dashboard V0.5.3 ![Admin Daskboard (ACP)](https://github.com/phpbbireland/
 The basic index page looks good but is lacking a few frills.  
 As I develop mods for phpBB2 & phpBB3 including the first ever portal for both, I have decided to add them to this forum build.  
 The first one is the Menu Block, it provided quick links to ACP, UCP, Members etc., others will follow as time allows...  
-An image can be view here: ![Index with Blocks, i.e. a portal](https://github.com/phpbbireland/AiGF/blob/main/images/index_with_portal_blocks.jpg)
+Click on image to view full size, it will take you to the image foolder where there are more images: ![Index with Blocks, i.e. a portal](https://github.com/phpbbireland/AiGF/blob/main/images/index_with_portal_blocks.jpg)
 
