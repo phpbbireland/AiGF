@@ -1,4 +1,4 @@
-# Ai Generated Full Stack Forum
+# Ai Generated Full Stack Forum (Fóram)
 **Current Version** 77 (0.7.7)  
 
 Full stack Forum built using Claude (Sonnet 4.6)  
