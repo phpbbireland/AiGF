@@ -1,7 +1,10 @@
 # Ai Generated Full Stack Forum
-**Current Version** 53 (0.5.3)  
+**Current Version** 77 (0.7.7)  
 
 Full stack Forum built using Claude (Sonnet 4.6)  
+I will post the code when we get to a release candidate...  
+
+The very first version was 100% Ai generated, the next few versions were about 95% Ai with some user updates. The most current versions are about 50/50 and later versions will probably be less than 10$ Ai and 90% human ;). I still upload all update to allow Claude to check them...    
 
 ![Example Image](https://github.com/phpbbireland/AiGF/blob/main/images/forumbyClaude1.jpg)
 
