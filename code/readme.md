@@ -1,6 +1,7 @@
 # Fóram / CommunityHub — PHP/MySQL Forum Package
 
-I will add the source later, here is the up to date readme.. 
+I will add the source later, here is the up to date readme..  
+
 A complete, secure forum application built with PHP 8 and MySQL, now with a
 block-driven portal page and admin-configurable sidebar layouts.
 
