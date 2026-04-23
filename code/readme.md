@@ -1,6 +1,6 @@
 # Fóram / CommunityHub — PHP/MySQL Forum Package
-I will add the source later, here is the up to date readme..  
 
+I will add the source later, here is the up to date readme.. 
 A complete, secure forum application built with PHP 8 and MySQL, now with a
 block-driven portal page and admin-configurable sidebar layouts.
 
@@ -44,7 +44,9 @@ listing inline in the centre. See **Portal & Block System** below for details.
 - Threads — search, pin, lock, hide/restore
 - Users — search, change role (member / moderator / admin), ban/unban, delete
 - **Portal → Blocks** — create / edit / reorder / toggle blocks; per-page visibility (`view_pages`), group restrictions (`view_groups`), guest visibility (`view_all`)
-- Config — site-wide settings
+- **Portal → k_vars** — key/value settings editor for portal/block config (e.g. `k_recent_days`, `k_news_items_to_display`); add / edit / delete keys
+- **Portal → k_resources** — word registry used by the portal engine; filter by type (`R` = reserved, `V` = variable), add / edit / delete entries
+- Config — site-wide settings (site name, tagline, `main_logo_filename`, etc.)
 
 ### Security
 
@@ -87,7 +89,9 @@ forum/
 │   ├── users.php               # Manage users
 │   ├── edit-user.php
 │   ├── settings.php            # Site config
-│   └── blocks.php              # Manage portal blocks (new)
+│   ├── blocks.php              # Manage portal blocks
+│   ├── k-vars.php              # Manage k_vars key/value settings
+│   └── k-resources.php         # Manage k_resources word registry (R/V)
 │
 ├── includes/
 │   ├── functions.php           # Core helpers: auth, db(), k_var(), URL, etc.
@@ -290,19 +294,19 @@ Set these via **Admin → Portal → Settings** or by inserting `k_vars` rows:
 - `k_top_topics_to_display` (default 5)
 - `k_top_posters_to_display` (default 5)
 - `k_last_online_hours` (default 24)
+- `k_recent_days` (default 7, capped at 365) — window for recent-posts / recent-threads blocks
 
 ---
 
 ## Customisation
 
-### Site name / tagline
+### Site name / tagline / logo
 
-Edit `config.php`:
-
-```php
-define('SITE_NAME', 'YourForumName');
-define('SITE_DESC', 'Your tagline here.');
-```
+`SITE_NAME`, `SITE_DESC`, and `MAIN_LOGO_FILENAME` are loaded from the `configs`
+table at bootstrap (see `includes/functions.php`). Edit them via **Admin →
+Config** — no code change required. The logo file itself lives at
+`assets/images/{main_logo_filename}` and is displayed in the hero strip at
+max 290×80px.
 
 ### Posts / threads per page
 
