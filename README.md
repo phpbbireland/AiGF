@@ -73,3 +73,4 @@ Click on image to view full size, it will take you to the image foolder where th
 
 Five or six themes added, user can select in profile panel...  
 
+This will look familiar to some: ![Admin Daskboard (ACP)]https://github.com/phpbbireland/AiGF/blob/main/images/NewAcpLayoout.jpg)
