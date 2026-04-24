@@ -71,6 +71,4 @@ As I develop mods for phpBB2 & phpBB3 including the first ever portal for both, 
 The first one is the Menu Block, it provided quick links to ACP, UCP, Members etc., others will follow as time allows...  
 Click on image to view full size, it will take you to the image foolder where there are more images: ![Index with Blocks, i.e. a portal](https://github.com/phpbbireland/AiGF/blob/main/images/index_with_portal_blocks.jpg)
 
-Five or six themes added, user can select in profile panel...  
-
-This will look familiar to some: ![Admin Daskboard (ACP)]https://github.com/phpbbireland/AiGF/blob/main/images/NewAcpLayoout.jpg)
+![This will look familiar to some]https://github.com/phpbbireland/AiGF/blob/main/images/NewAcpLayoout.jpg)
