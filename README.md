@@ -1,10 +1,9 @@
 # Ai Generated Full Stack Forum (Fóram)
 **Current Version** 77 (0.7.7)  
 
-Full stack Forum built using Claude (Sonnet 4.6)  
-I will post the code when we get to a release candidate...  
+Full stack Forum built using Claude (Sonnet 4.6) based on phpBB and my Kiss Portal Mod,..  
 
-The very first version was 100% Ai generated, the next few versions were about 95% Ai with some user updates. The most current versions are about 50/50 and later versions will probably be less than 10% Ai and 90% human ;). I still upload all update to allow Claude to check them...    
+Initial prompt generated a fully working generic forum, I then asked claude to update the code to include the Kiss Portal code mod (note, Claude informed me it was aware of the Kiss Potal code as it was trained on it and other phpBB3 mods). Basically, an Ai generated forum with portal pages based on my own code (less than 50% Ai and 50% human ;)  
 
 **Switched to Claude-Desktop**
 + More progress since changing to app...
