@@ -3,7 +3,7 @@
 
 Full stack Forum built using Claude (Sonnet 4.6) based on phpBB and my Kiss Portal Mod,..  
 
-Initial prompt generated a fully working generic forum, I then asked claude to update the code to include the Kiss Portal code mod (note, Claude informed me it was aware of the Kiss Potal code as it was trained on it and other phpBB3 mods). Basically, an Ai generated forum with portal pages based on my own code (less than 50% Ai and 50% human ;)  
+Initial prompt generated a fully working generic forum, I then asked claude to update the code to include the Kiss Portal code mod (note, Claude informed me it was aware of the Kiss Potal code as it was trained on it and other phpBB3 mods). Basically, an Ai generated forum with portal pages based on my own code (50% Ai and 50% human ;)  
 
 **Switched to Claude-Desktop**
 + More progress since changing to app...
