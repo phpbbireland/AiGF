@@ -1,9 +1,9 @@
 # Ai Generated Full Stack Forum (Fóram)
 **Current Version** 77 (0.7.7)  
 
-Full stack Forum built using Claude (Sonnet 4.6) based on phpBB and my Kiss Portal Mod...  
+Full stack Forum built using Claude (Opus 4.6) based on phpBB and my Kiss Portal Mod...  
 
-Initial prompt generated a fully working generic forum, I then asked claude to update the code to include the Kiss Portal code mod (note, Claude informed me it was aware of the Kiss Potal code as it was trained on it and other phpBB3 mods). Basically, an Ai generated forum with portal pages based on my own code (50% Ai and 50% human ;)  
+Initial prompt generated a fully working generic forum, I then asked Claude to update the code to include the Kiss Portal code mod (note, Claude informed me it was aware of the Kiss Portal code as it was trained on it and other phpBB3 mods). Basically, an Ai generated forum with portal pages based on my own code (50% Ai and 50% human ;)  
 
 **Switched to Claude-Desktop**
 + More progress since changing to app...
@@ -68,6 +68,6 @@ Admin Dashboard V0.5.3 ![Admin Daskboard (ACP)](https://github.com/phpbbireland/
 The basic index page looks good but is lacking a few frills.  
 As I develop mods for phpBB2 & phpBB3 including the first ever portal for both, I have decided to add them to this forum build.  
 The first one is the Menu Block, it provided quick links to ACP, UCP, Members etc., others will follow as time allows...  
-Click on image to view full size, it will take you to the image foolder where there are more images: ![Index with Blocks, i.e. a portal](https://github.com/phpbbireland/AiGF/blob/main/images/index_with_portal_blocks.jpg)
+Click on image to view full size, it will take you to the image folder where there are more images: ![Index with Blocks, i.e. a portal](https://github.com/phpbbireland/AiGF/blob/main/images/index_with_portal_blocks.jpg)
 
 This will look familiar to some ![ACP Blocks](https://github.com/phpbbireland/AiGF/blob/main/images/NewAcpLayoout.jpg)
